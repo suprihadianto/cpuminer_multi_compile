@@ -1,0 +1,1 @@
+# cpuminer_multi_compile
